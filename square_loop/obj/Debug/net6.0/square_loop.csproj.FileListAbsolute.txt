@@ -1,0 +1,15 @@
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\bin\Debug\net6.0\square_loop.exe
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\bin\Debug\net6.0\square_loop.deps.json
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\bin\Debug\net6.0\square_loop.runtimeconfig.json
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\bin\Debug\net6.0\square_loop.dll
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\bin\Debug\net6.0\square_loop.pdb
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\square_loop.csproj.AssemblyReference.cache
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\square_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\square_loop.AssemblyInfoInputs.cache
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\square_loop.AssemblyInfo.cs
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\square_loop.csproj.CoreCompileInputs.cache
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\square_loop.dll
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\refint\square_loop.dll
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\square_loop.pdb
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\square_loop.genruntimeconfig.cache
+C:\Users\goodt\OneDrive\Desktop\C#\square_loop\square_loop\obj\Debug\net6.0\ref\square_loop.dll
